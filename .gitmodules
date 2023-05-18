@@ -1,9 +1,3 @@
-[submodule "CompilePrincipleHomework"]
-	path = CompilePrincipleHomework
-	url = git@github.com:xiaoliubenliu/CompilePrincipleHomework.git
-[submodule "test"]
-	path = test
-	url = D:/Motrix Software/Git/test
 [submodule "CompilePrincipleEXE"]
 	path = CompilePrincipleEXE
 	url = git@github.com:xiaoliubenliu/CompilePrincipleEXE.git
