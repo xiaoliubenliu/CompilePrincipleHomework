@@ -1,0 +1,25 @@
+C:\Users\xiaoliu\Desktop\CompilationPrinciples3\bin\Release\CompilationPrinciples.exe.config
+C:\Users\xiaoliu\Desktop\CompilationPrinciples3\bin\Release\CompilationPrinciples.exe
+C:\Users\xiaoliu\Desktop\CompilationPrinciples3\bin\Release\CompilationPrinciples.pdb
+C:\Users\xiaoliu\Desktop\CompilationPrinciples3\obj\Release\CompilationPrinciples.csproj.AssemblyReference.cache
+C:\Users\xiaoliu\Desktop\CompilationPrinciples3\obj\Release\CompilationPrinciples.csproj.SuggestedBindingRedirects.cache
+C:\Users\xiaoliu\Desktop\CompilationPrinciples3\obj\Release\CompilationPrinciples.Form1.resources
+C:\Users\xiaoliu\Desktop\CompilationPrinciples3\obj\Release\CompilationPrinciples.Properties.Resources.resources
+C:\Users\xiaoliu\Desktop\CompilationPrinciples3\obj\Release\CompilationPrinciples.csproj.GenerateResource.cache
+C:\Users\xiaoliu\Desktop\CompilationPrinciples3\obj\Release\CompilationPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\xiaoliu\Desktop\CompilationPrinciples3\obj\Release\CompilationPrinciples.exe
+C:\Users\xiaoliu\Desktop\CompilationPrinciples3\obj\Release\CompilationPrinciples.pdb
+C:\Users\xiaoliu\Desktop\CompilationPrinciples3\out\Release\CompilationPrinciples.exe.config
+C:\Users\xiaoliu\Desktop\CompilationPrinciples3\out\Release\CompilationPrinciples.exe
+C:\Users\xiaoliu\Desktop\CompilationPrinciples3\out\Release\CompilationPrinciples.pdb
+C:\Users\xiaoliu\Desktop\新建文件夹 (2)\项目\out\Release\CompilationPrinciples.exe.config
+C:\Users\xiaoliu\Desktop\新建文件夹 (2)\项目\out\Release\CompilationPrinciples.exe
+C:\Users\xiaoliu\Desktop\新建文件夹 (2)\项目\out\Release\CompilationPrinciples.pdb
+C:\Users\xiaoliu\Desktop\新建文件夹 (2)\项目\obj\Release\CompilationPrinciples.csproj.AssemblyReference.cache
+C:\Users\xiaoliu\Desktop\新建文件夹 (2)\项目\obj\Release\CompilationPrinciples.csproj.SuggestedBindingRedirects.cache
+C:\Users\xiaoliu\Desktop\新建文件夹 (2)\项目\obj\Release\CompilationPrinciples.Form1.resources
+C:\Users\xiaoliu\Desktop\新建文件夹 (2)\项目\obj\Release\CompilationPrinciples.Properties.Resources.resources
+C:\Users\xiaoliu\Desktop\新建文件夹 (2)\项目\obj\Release\CompilationPrinciples.csproj.GenerateResource.cache
+C:\Users\xiaoliu\Desktop\新建文件夹 (2)\项目\obj\Release\CompilationPrinciples.csproj.CoreCompileInputs.cache
+C:\Users\xiaoliu\Desktop\新建文件夹 (2)\项目\obj\Release\CompilationPrinciples.exe
+C:\Users\xiaoliu\Desktop\新建文件夹 (2)\项目\obj\Release\CompilationPrinciples.pdb
