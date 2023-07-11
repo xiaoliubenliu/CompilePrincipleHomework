@@ -20,7 +20,10 @@
 
 #### 说明
 
-可以使用C#界面直接运行。或者使用其他编译器配合控制台执行。
+可以使用C#界面直接运行。
+![uTools_1689059118318.png]("https://github.com/xiaoliubenliu/CompilePrincipleIDE/raw/master/readmePic/uTools_1689059118318.png")
+
+或者使用其他编译器配合控制台执行。
 
 code.txt需要GB2312编码，否则exe执行会出现乱码情况
 
