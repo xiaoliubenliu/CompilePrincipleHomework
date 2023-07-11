@@ -21,7 +21,7 @@
 #### 说明
 
 可以使用C#界面直接运行。
-![uTools_1689059118318.png]("https://github.com/xiaoliubenliu/CompilePrincipleIDE/raw/master/readmePic/uTools_1689059118318.png")
+![uTools_1689051005837](https://github.com/xiaoliubenliu/CompilePrincipleIDE/raw/master/readmePic/uTools_1689059118318.png)
 
 或者使用其他编译器配合控制台执行。
 
